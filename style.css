@@ -96,6 +96,7 @@ body{
 .quiz-app .results span.bad{
     color: red;
 }
+
 .quiz-app .results span.good{
     color: #009688;
 }.quiz-app .results span.perfect{
